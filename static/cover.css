@@ -1,0 +1,122 @@
+/*
+ * Globals
+ */
+
+/* Links */
+a,
+a:focus,
+a:hover {
+    color: #fff;
+}
+
+/* Custom default button */
+.btn-secondary,
+.btn-secondary:hover,
+.btn-secondary:focus {
+    color: #333;
+    text-shadow: none;
+    /* Prevent inheritance from `body` */
+    background-color: #fff;
+    border: .05rem solid #fff;
+}
+
+
+/*
+ * Base structure
+ */
+
+html,
+body {
+    height: 100%;
+
+    background-image: url("bh.jpg");
+
+
+    /* Center and scale the image nicely */
+    background-position: -1px -1px;
+    background-repeat: no-repeat;
+
+    background-size: cover;
+}
+
+.div2{
+    float: left;
+    padding-top: 100px;
+    padding-left: 10px;
+    text-align: left;
+}
+
+.div1{
+    float: left;
+    padding: 50px;
+    width: 350px;
+    border: 5px solid #ffffff;
+    border-radius: 20px;
+    margin-left: 1100px;
+    margin-top: 20px;
+
+}
+
+.div3{
+    font-size: 20px;
+    border: 5px solid white;
+    border-radius: 20px;
+    color: #ffffff;
+    /*background: #007bb5;*/
+    background: rgba(128, 128, 128, 0.25);;
+    margin-left: 900px;
+    margin-top: 80px;
+    font-weight: bold;
+}
+
+
+.code {
+    font-family: Consolas, monofont;
+    color: #fff200;
+
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+    opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+
+.fa-linkedin {
+    background: #007bb5;
+    color: white;
+}
+
+.fa-instagram {
+    background: #125688;
+    color: white;
+}
+
+.fa-snapchat-ghost {
+    background: #fffc00;
+    color: white;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+.fa-pinterest {
+    background: #cb2027;
+    color: white;
+}
+.fa-reddit {
+    background: #ff5700;
+    color: white;
+}

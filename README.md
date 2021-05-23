@@ -1,4 +1,4 @@
-# gta-convertor
+# gta-converter
 
 A web app used to convert Snapmatic pictures from GTA 5 (pictures clicked within the game) into jpg format.
 

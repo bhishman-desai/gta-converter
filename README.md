@@ -18,7 +18,7 @@ As an avid GTA 5 fan, I found myself captivated by the stunning in-game scenario
 
 ## How to Use:
 
-1. Navigate to the web application.
+1. Navigate to the web application: [GTA Image Converter](https://gtaconvert.pythonanywhere.com/).
 2. Upload your Snapmatic image.
 3. Click the convert button.
 4. Download your converted jpg image.
@@ -27,4 +27,4 @@ As an avid GTA 5 fan, I found myself captivated by the stunning in-game scenario
 
 The GTA Image Converter project welcomes contributions and feedback. Whether you are a fellow GTA 5 enthusiast or a developer looking to enhance the application's functionality, your involvement is valued.
 
-Join me in bringing a new level of accessibility to the mesmerizing captures of the GTA 5 world. Convert, share, and relive your in-game photography adventures!
+Join us in bringing a new level of accessibility to the mesmerizing captures of the GTA 5 world. Convert, share, and relive your in-game photography adventures!
